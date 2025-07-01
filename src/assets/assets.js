@@ -116,67 +116,75 @@ export const albumsData = [
 
 export const songsData = [
     {
-        id:0,
+        id: 0,
         name: "Song One",
         image: img1,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:00"
+        file: song1,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "3:00",
+        plays: "3,452,213"
     },
     {
-        id:1,
+        id: 1,
         name: "Song Two",
         image: img2,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:20"
+        file: song2,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "2:20",
+        plays: "2,734,821"
     },
     {
-        id:2,
+        id: 2,
         name: "Song Three",
         image: img3,
-        file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        file: song3,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "2:32",
+        plays: "1,278,912"
     },
     {
-        id:3,
+        id: 3,
         name: "Song Four",
         image: img4,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:50"
+        file: song1,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "2:50",
+        plays: "9,312,045"
     },
     {
-        id:4,
+        id: 4,
         name: "Song Five",
         image: img5,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:10"
+        file: song2,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "3:10",
+        plays: "6,102,887"
     },
     {
-        id:5,
+        id: 5,
         name: "Song Six",
-        image: img14    ,
-        file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:45"
+        image: img14,
+        file: song3,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "2:45",
+        plays: "1,149,870"
     },
     {
-        id:6,
+        id: 6,
         name: "Song Seven",
         image: img7,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:18"
+        file: song1,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "2:18",
+        plays: "8,532,230"
     },
     {
-        id:7,
+        id: 7,
         name: "Song Eight",
         image: img12,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:35"
+        file: song2,
+        desc: "Put a smile on your face with these happy tunes",
+        duration: "2:35",
+        plays: "3,697,854"
     }
 ]
