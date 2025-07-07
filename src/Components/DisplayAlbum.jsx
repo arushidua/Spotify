@@ -49,7 +49,7 @@ const DisplayAlbum = () => {
                         </p>
                         <p className='text-center'>{item.plays}</p>
                         <p className='ml-4'>{albumData.name}</p>
-                        <p>{item.duration}</p>
+                        <p className='text-center'>{item.duration}</p>
                     </div>                    
                 ))
             }
